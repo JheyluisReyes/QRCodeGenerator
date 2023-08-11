@@ -1,7 +1,7 @@
 # QR Code Generator App
 This is an application written in Python that generates a QR Code from the specified URL.
 
-  ![QRCodeScreenshot](https://imgur.com/npc5vB9)
+  ![QRCodeScreenshot](https://github.com/JheyluisReyes/QRCodeGenerator/assets/141370176/27c80609-ebf9-4eb5-b337-081c466e2d13)
 
 ## Built with
 - Python 3.11.4
