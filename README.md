@@ -27,7 +27,7 @@ This is an application written in Python that generates a QR Code from the speci
 - Run the app.
 
     ```
-    python [qrcodegenerator.py](qrcodegenerator.py)
+    python qrcodegenerator.py
     ```
 
 - Use Visual Studio Code to edit the files in this repository.
